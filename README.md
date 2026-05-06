@@ -2,7 +2,7 @@
 
 ARPAT is a deep learning framework designed to predict the **Phonon Density of States (PhDOS)** of crystalline materials. It leverages a Transformer architecture with a specialized **Atomic Relative Position Encoding (ARPAT)** mechanism to capture both chemical identities and the complex geometric relationships between atoms in a crystal lattice.
 
-![Model Architecture](https://raw.githubusercontent.com/your-username/ARPAT/main/FIG/architecture_placeholder.png) *(Note: Update this URL with your actual FIG path if hosted)*
+![Model Architecture](figures/Model%20Architecture.jpg)
 
 ## Core Features
 
